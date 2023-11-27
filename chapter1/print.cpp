@@ -7,6 +7,9 @@
 int main()
 {
 	std::cout <<"Welcome to C++!\n"; // display message
+
+	// print multiple lines with a single statement
+	
 	
 	return 0;  // indicate that program ended successfully
 
